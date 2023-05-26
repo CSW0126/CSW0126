@@ -44,8 +44,8 @@ Joined Github **4** years ago.
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="200em" src="https://csw-0126.vercel.app/api?username=csw0126&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="200em"src="https://csw-0126.vercel.app/api/top-langs/?username=csw0126&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="200em" src="https://github-readme-stats-csw0126.vercel.app/api?username=csw0126&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="200em"src="https://github-readme-stats-csw0126.vercel.app/api/top-langs/?username=csw0126&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
