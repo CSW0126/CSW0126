@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Donald Cheung!](https://github.com/CSW0126/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/donald-cheung-36293b241/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://CSW0126.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://csw0126.github.io/comp3421-personal-web-page/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/wing0126)
 
 I am a Computer Science graduate from The Hong Kong Polytechnic University, equipped with a solid foundation in IT expertise. 
