@@ -41,16 +41,15 @@ Joined Github **4** years ago.
 <code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"></code>
 
 ### Projects and Dev Stuffs:
-<details>	
+
   <summary><b>⚡ Github Stats</b></summary>
   <br />
   <img height="200em" src="https://github-readme-stats-csw0126.vercel.app/api?username=csw0126&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="200em"src="https://github-readme-stats-csw0126.vercel.app/api/top-langs/?username=csw0126&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
 
-<details>	
+
+
   <summary><b>☄️ Github Streaks</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=csw0126&hide_border=true" />
-</details>
+
