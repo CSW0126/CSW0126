@@ -15,7 +15,7 @@ Joined Github **4** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m love working with Nodejs, Express, React, Mongodb, Javascript, Python, etc.
+- 🛠 &nbsp; I love working with Nodejs, Express, React, MongoDB, Javascript, Python, etc.
 - 🚀 &nbsp; I want to be a Full Stack Developer.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/CSW0126).
 - 📫 &nbsp; How to reach me: shuiwing123@gmail.com.
